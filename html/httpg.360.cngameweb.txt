@@ -1,0 +1,719 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 24 Sep 2017 10:58:23 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+
+11dd6
+
+
+
+
+
+<!DOCTYPE html>
+
+<html xmlns:wb=“http://open.weibo.com/wb”>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>360游戏导航_网页游戏频道</title>
+	<meta name="keywords" content="360,游戏,导航,游戏导航,网页游戏,网络游戏,小游戏,手机游戏,单机游戏,电竞,开服表,页游,网游,游戏资讯,游戏攻略,传奇,铁血皇城,神仙劫,大青云" />
+	<meta name="description" content=" 360网页游戏导航，为您推荐当季新鲜好玩的网页游戏，游戏爱好者们在这里可以快捷地找到想玩的游戏，为您业余生活添色彩！" />
+	<script>var G_start_time = new Date();</script>
+    
+<link rel='stylesheet' href='http://s8.qhres.com/static/2a166d8e54071928,28ef11ad88044266,076c9d28abe29129,c4ea11e36eafc566.css' />
+
+
+	<script type="text/javascript" src="http://s0.qhres.com/lib/qwrap/115.js"></script>
+    <script type="text/javascript" src="http://s0.qhres.com/static/facf0b3e0a47b36c,b7de95fd2f308c07,86a5a8fd3cf24383.js"></script>
+    <script type="text/javascript">
+        (function(){
+            function gameStorage(config){
+                this.init(config);
+            }
+            gameStorage.prototype={
+                init:function(config){
+                    var defaultConfig={
+                        version:'1.0',
+                        namespace:'g.360.cn'
+                    };
+                    this.config=config?qboot.mix(config,defaultConfig):defaultConfig;
+                    this.storage = new AppData(this.config.namespace,this.config.version);
+                },
+                getContent:function(key,ignoreExpires){
+                    return this.storage.get(key,ignoreExpires);
+                },
+                setContent:function(key,content,expires){
+                    this.storage.set(key,content,expires);
+                },
+                remove:function(key){
+                    this.storage.remove(key);
+                }
+            };
+            window.gameStorage=gameStorage;
+        })();
+        var gameStorageIns=new gameStorage();
+    </script>
+    <script src="http://s8.qhres.com/!168ae75f/huid.js"></script>
+    <base target=_blank>
+</head>
+<body >
+	
+<div id="doc">
+    <div id="hd">
+        
+                <div class="g-nav">
+	<div class="top-bar">
+		<div class="inner">
+			<ul class="left list list-1">
+				<li class="first"><a href="http://hao.360.cn/">360导航</a></li>
+				<li><a href="http://g.360.cn">游戏</a></li>
+                                <li><a href="http://xiaoyouxi.360.cn">小游戏</a></li>
+				<li><a href="http://shenghuo.hao.360.cn/#cid=28"  target="_blank">游戏资讯</a></li>
+				<li><a href="http://licai.360.cn/">理财</a></li>
+				<li><a href="http://gouwu.360.cn/">购物</a></li>
+				<li><a href="http://go.360.cn/">旅游</a></li>
+				<li class="last"><li><a href="http://edu.360.cn/">教育</a></li>
+                                <li><a href="http://vr.hao.360.cn">VR</a></li>
+			</ul>
+			<ul class="right list list-2">
+				<!--<li class="pic-tips"><a href="http://g.360.cn/zt/plants2.html?src=gdb"><img src="http://p6.qhimg.com/t011923e0c950828db9.jpg"/></a></li>-->
+				<li class="home"><a href="http://hao.360.cn/sub/sethomepage.html" onclick="try{this.style.behavior='url(#default#homepage)';this.setHomePage('http://hao.360.cn/');return(false);}catch(e){}">将360导航设为首页</a></li>
+				<li><a href="http://feedback.hao.360.cn/" class="feedback feedback-btn"   id="feedback_btn"></a></li>
+        		<li><span class="weibo"><wb:follow-button uid="2801260430" type="red_1" width="67" height="24" ></wb:follow-button></span></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="wrap">
+		<div class="logo-search gclearfix">
+
+			<div class="left">
+
+
+				<a href="http://g.360.cn" class="logo"></a>
+		<a href="http://tg.602.com/cqsj/116/index.html?uid=360yxpd&suid=cqsj1" class="pic-link" style="background:url(http://p0.qhimg.com/t01baf6dad8d82482e5.png) center center no-repeat"></a>
+
+
+			</div>
+
+			<div class="right search-links">
+			<form class="serach gclearfix" target="_blank" method="get" action="http://so.com/s">
+			<input type="text" id="search-kw" class="search-text placeholder" version="1.0" autocomplete="off" name="q" value="龙神契约" placeholdervalue="龙神契约">
+			<input type="hidden" name="src" value="dherjiye" />
+                        <input type="submit" value="搜一下" class="search-submit">
+				</form>
+				<ul class="hot-links gclearfix">
+                                 
+                               <li><a href="https://www.so.com/s?src=lm&ls=s683c45e698&q=澳门捕鱼&lmsid=0a127eaabcf1849c&lm_extend=ctype:4" class="hot" >澳门捕鱼</a></li>      <!-- class="hot" -->
+                               <li><a href="http://xiaoyouxi.360.cn/tag?tag=124" class="hot">奥特曼全集</a></li>      
+		                <li><a href="https://www.so.com/s?src=lm&ls=s683c45e698&q=决战传奇&lmsid=0a127eaabcf1849c&lm_extend=ctype:4">决战传奇</a></li>       
+                                <li><a href="https://www.so.com/s?src=lm&ls=s683c45e698&q=玩游戏&lmsid=0a127eaabcf1849c&lm_extend=ctype:4"  class="hot" >玩游戏</a></li>                                                                          
+		            	<li id="djLink1"></li>
+        		</ul>
+			</div>
+		</div>
+		<div class="page-nav">
+			<div class="top-nav">
+				<ul class="channel">
+					<li class=""><a href="http://g.360.cn/index.html" target="_self">游戏首页</a></li>
+					<li class="current"><a href="http://g.360.cn/game/web" target="_self">网页游戏</a></li>
+					<li class=""><a href="http://g.360.cn/game/mmo" target="_self">网络游戏</a></li>
+                                        <li class=""><a href="http://xiaoyouxi.360.cn/" target="_self">小游戏</a></li>	
+					<li class=""><a href="http://g.360.cn/game/pcg" target="_self">单机游戏</a></li>			
+                                        <li class=""><a href="http://g.360.cn/dianjing" target="_self">电竞直播</a></li>
+                                        <li class=""><a href="http://shenghuo.hao.360.cn/#cid=28" target="_self">游戏资讯</a></li>
+					
+	
+				</ul>
+				<a href="http://fl.tg.wan.360.cn/515303643.html?placeid=&src=hao-hao-tongyong-9x" class="speak t-right">热血英豪，再战沙城</a>
+			</div>
+			
+		</div>	
+	</div>
+</div>
+<script src='http://s8.qhres.com/static/c733dc517c1b40b2.js' type='text/javascript'></script>
+
+<script src="" type="text/javascript"></script>
+<script type="text/javascript">
+    var option = {};
+    option.type = 1;
+    option.of = 4;
+    option.pubid = 1000045;
+    option.tags = '70'
+    option.dataUrl = 'https://show-s.mediav.com/s?pubid=' + option.pubid + '&type=' + option.type + '&of=' + option.of + '&tags=' + option.tags + '_2&jsonp=%callbackfun%&_t=' + new Date().getTime();
+    option.tpl = '<a class="dj-item" href="\{url\}" title="\{title\}">\{html\}</a>';
+    var adAsy1 = new AdAsy(option);
+    adAsy1.add("djLink1"); 
+</script>    </div>
+    <div id="bd">
+            <script src='http://s9.qhres.com/static/5521e8eeb6633c53,f469a183866123df.js' type='text/javascript'></script>
+
+      <script type="text/javascript">
+       var asy_dom_st = {};//记录需要有js交互的异步加载内容的状态
+      </script>
+       
+       <div class="hot-game"><div class="content gclearfix"><div class="left label"><span class="icon"></span>热门游戏</div><div class="links right to-record"><ul class="odd txt-links gclearfix"><li><a  href="http://dev.tg.wan.360.cn/?channel=515304041&placeid=">攻沙</a></li><a href="https://www.so.com/s?src=lm&ls=s683c45e698&q=麻将&lmsid=0a127eaabcf1849c&lm_extend=ctype:4">麻将</a><li><a href="http://dev.tg.wan.360.cn/?channel=515304091&placeid=">盗墓笔记</a></li><li><a  href="http://1.xiyouence.com/hb/3104/0/18801/1.html?from=360wzl1_0">神龙战士</a></li><li><a  href="http://dev.tg.wan.360.cn/?channel=521180152&placeid=">剑倚天下</a></li><li><a href="http://rd.wan.360.cn/go?src=hao-bdwzl-hhol">诸神黄昏</a></li><li><a  class="special"  href="http://v.code.dajiadou6.com/htmlcode/2982.html">贪玩蓝月</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515303893&placeid=">天书世界</a></li><li><a href="http://rd.wan.360.cn/go?src=hao-bdwzl-yysg">页游三国</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515303937&placeid=">战国之怒</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304201&placeid=">蜀山战纪</a></li><li><a class="red" href="http://www.9718game.com/19257.html">新霸者之刃</a></li><li><a  href="http://rd.wan.360.cn/go?src=hao-gameyyheadwzl-z3">真三国乱舞</a></li></ul><ul class="txt-links gclearfix"><li><a class="red"  href="http://yx.2144.cn/94536">屠龙战记</a></li><li><a href="http://news.e9377d.com/23690/">赤月传说2</a></li><li><a  class="special" href="http://v.code.dajiadou6.com/htmlcode/1917.html">传奇世界</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304027&placeid=">雷霆之怒</a></li><li><a  href="http://dev.tg.wan.360.cn/?channel=515303997&placeid=">神魔诛天</a></li><li><a class="red" href="http://news.df9377.com/11638/">战狼传奇</a></li><li><a  href="http://rd.wan.360.cn/go?src=hao-bdwzl-gcld">攻城掠地</a></li><li><a href="http://xiaoyouxi.360.cn/tag?tag=166">经典魂斗罗</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515303905&placeid=">球王争霸</a></li><li><a class="red" href="http://tg.niua.com/pdyoux1270_ftv6.htm">攻沙加强版</a></li><li><a  href="http://rd.wan.360.cn/go?src=hao-bdwzl-rxjh">热血江湖传</a></li><li><a href="http://g.360.cn/mmo/bcMVaIMzTVavRE.html">爆裂天空</a></li><li><a class="red"  href="http://rd.wan.360.cn/go?src=hao-gameyyheadwzl-rxhzw">热血海贼王</a></li></ul><ul class="odd txt-links gclearfix"><li><a  href="http://rd.wan.360.cn/go?src=tc-test-ddt">弹弹堂</a></li><li><a href="http://rd.wan.360.cn/go?src=hao-bdwzl-clx">楚留香</a></li><li><a  href="http://rd.wan.360.cn/go?src=tc-test-lyb">琅琊榜</a></li><li><a  class="red"  href="http://rd.wan.360.cn/go?src=hao-gamesyheadwzl-hqg">花千骨</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515303901&placeid=">莽荒纪</a></li><li><a href="http://rd.wan.360.cn/go?src=tc-test-tzh">轩辕剑</a></li><li><a href="https://www.so.com/s?src=lm&ls=s683c45e698&q=全民斗地主&lmsid=0a127eaabcf1849c&lm_extend=ctype:4">全民斗地主</a></li><li><a  class="red"  href="http://mu2.zhaouc.com/cs8/?ResourceID=g1027">遗失的大陆</a></li><li><a href="http://rd.wan.360.cn/go?src=tc-test-hdzy">混沌战域</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304011&placeid=">女神联盟</a></li><li><a  class="red"  href="http://tg.602.com/lycq/172/index.html?uid=360yxpd&suid=tbrmwzl">蓝月传奇</a></li><li><a href="http://rd.wan.360.cn/go?src=hao-gamesyheadwzl-rxsg2">热血三国2</a></li><li><a href="http://rd.wan.360.cn/go?src=hao-bdwzl-dtszj">大天使之剑</a></li><li><a  href="http://rd.wan.360.cn/go?src=hao-bdwzl-ahxy">暗黑西游记</a></li></ul><ul class="txt-links gclearfix"><li><a class="red"  href="http://rd.wan.360.cn/go?src=hao-bdwzl-htol">皇图</a></li><li><a  href="http://rd.wan.360.cn/go?src=hao-bdwzl-djj">大将军</a></li><li><a href=" http://dev.tg.wan.360.cn/?channel=515304355&placeid=">神印王座</a></li><li><a href=" http://g.m5f5s.com/s/1/202/53242.html?uid=3600008">择天记</a></li><li><a href="http://rd.wan.360.cn/go?src=tc-test-qfz">乔峰传</a></li><li><a  href="http://rd.wan.360.cn/go?src=tc-test-sqol">神曲2</a></li><li><a href="http://rd.wan.360.cn/go?src=tc-test-jjsg">街机三国</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515303953&placeid=">九阴绝学</a></li><li><a href="http://rd.wan.360.cn/go?src=hao-bdwzl-mjtd">盟军防线</a></li><li><a href="http://rd.wan.360.cn/go?src=hao-bdwzl-sssg2">盛世三国2</a></li><li><a  href="http://rd.wan.360.cn/go?src=hao-bdwzl-hzbwz">猴子保卫战</a></li><li><a  href="http://rd.wan.360.cn/go?src=hao-bdwzl-tklm">全民坦克大战</a></li><li><a class="red" href="http://rd.wan.360.cn/go?src=hao-bdwzl-tzyx">特战英雄</a></li></ul></div></div><div class="latest"><label>最新</label><ul class="txt-links gclearfix to-record"><li><a href="http://dev.tg.wan.360.cn/?channel=515304195&placeid=">神仙劫</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304203&placeid=">攻沙</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304189&placeid=">大青云</a></li><li><a  href="http://dev.tg.wan.360.cn/?channel=515304185&placeid=">怒斩千军</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304187&placeid=">乾坤战纪</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304191&placeid=">神鬼无双</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304193&placeid=">不良人</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304197&placeid=">完美红颜</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304199&placeid=">君王之路</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304201&placeid=">盗墓笔记</a></li><li><a class="red" href="http://hd.wan.360.cn/wan/getcard_tpl/2814.html?src=gtj">领游戏礼包</a></li><li><a  href="https://www.so.com/s?src=lm&ls=s683c45e698&q=挂机&lmsid=0a127eaabcf1849c&lm_extend=ctype:4">开服表</a></li><li><a  href="https://www.so.com/s?src=lm&ls=s683c45e698&q=挂机&lmsid=0a127eaabcf1849c&lm_extend=ctype:4">挂机</a></li><li><a class="red" href="https://www.so.com/s?src=lm&ls=s683c45e698&q=真人cs枪&lmsid=0a127eaabcf1849c&lm_extend=ctype:4">真人cs枪</a></li></ul></div></div>       <div class="grid-1c">
+        
+            <div style="width:1000px;margin: 10px auto 0;overflow:hidden;">
+              <div style="width:50px; height:90px; float: left;">
+              <a href="http://juxiao.mediav.com/" target="_blank">
+              <img src="http://material.mediav.com/clickurl/50x90.jpg" border=0/></a></div>
+              <div style="width:950px; height:90px; float: right;">
+
+              <script>
+              var mediav_ad_pub = '0ofqIs_1035158';
+              var mediav_ad_width = '950';
+              var mediav_ad_height = '90';
+              </script>
+              <script type="text/javascript" language="javascript" charset="utf-8"  src="http://static.mediav.com/js/mvf_g2.js"></script>
+
+              </div>
+          </div>
+        </div>
+        
+        
+       
+       <div class="game-area gclearfix"><div class="left"><div class="slider"><div class="content"><ul class="pic-list gclearfix" id="sliderList"><li id="j7Mql2"><a href="http://p.ecwan77.com/s/1/202/19245.html?uid=3613005"><img src="http://p5.qhimg.com/t01f8baaf1dc84800ab.jpg"/><span class="shadow"></span><span class="des">西游斗神</span></a></li><li id="e8H0zM"><a href="http://p.ecwan77.com/s/1/202/19200.html?uid=3613007"><img src="http://p4.qhimg.com/t01cb2e7c8de303b717.jpg"/><span class="shadow"></span><span class="des">唯武独尊</span></a></li><li id="MFQuBe"><a href="http://p.ecwan77.com/s/1/202/19190.html?uid=3613002"><img src="http://p9.qhimg.com/t017f1a66086f5a4764.jpg"/><span class="shadow"></span><span class="des">热血战纪</span></a></li><li id="vwvF7V"><a href="http://p.ecwan77.com/s/1/202/15941.html?uid=3613003"><img src="http://p2.qhimg.com/t013a36899582fbd347.jpg"/><span class="shadow"></span><span class="des">御天</span></a></li><li id="14RtlC"><a href="http://p.ecwan77.com/s/1/202/18979.html?uid=3613001"><img src="http://p0.qhimg.com/t018121c07934a0d16f.jpg"/><span class="shadow"></span><span class="des">大闹天宫</span></a></li></ul></div><ul class="nav-list"><li class="current"></li><li></li><li></li><li></li><li></li></ul><div class="op pre"></div><div class="op next"></div></div><div class="mod kf-table"><div class="title"><span class="label">今日开服</span><span class="des">今日<span class="red">1067</span>个新服开启</span></div><div class="content"><div class="hd gclearfix"><span class="col col-1">游戏名</span><span class="col col-2">开服时间</span><span class="col col-3">运营平台</span><span class="col col-4 last">快捷操作</span></div><div class="bd"><ul class="list gclearfix"><li class="odd"><span class="col col-1"><a class="red" href="http://g.360.cn/kf/info?gameid=756402" title="佛本是道">佛本是道</a></span><span class="col col-2"><span class="red">08:00</span></span><span class="col col-3"><a href="http://g.360.cn/kf/info?yysid=1" title="360游戏">360游戏</a></span><span class="col col-4 last"><a class="start" href="http://fb.wan.360.cn">开始游戏</a></span></li><li class=""><span class="col col-1"><a class="" href="http://g.360.cn/kf/info?gameid=552879" title="大天使之剑">大天使之剑</a></span><span class="col col-2"><span class="">08:30</span></span><span class="col col-3"><a href="http://g.360.cn/kf/info?yysid=101157" title="360游戏中心">360游戏中心</a></span><span class="col col-4 last"><a class="start" href="http://dtszj.wan.360.cn">开始游戏</a></span></li><li class="odd"><span class="col col-1"><a class="" href="http://g.360.cn/kf/info?gameid=688526" title="盛世三国2">盛世三国2</a></span><span class="col col-2"><span class="">08:55</span></span><span class="col col-3"><a href="http://g.360.cn/kf/info?yysid=101157" title="360游戏中心">360游戏中心</a></span><span class="col col-4 last"><a class="start" href="http://sssg2.wan.360.cn/">开始游戏</a></span></li><li class=""><span class="col col-1"><a class="" href="http://g.360.cn/kf/info?gameid=740630" title="神魔三国">神魔三国</a></span><span class="col col-2"><span class="">09:55</span></span><span class="col col-3"><a href="http://g.360.cn/kf/info?yysid=101157" title="360游戏中心">360游戏中心</a></span><span class="col col-4 last"><a class="start" href="http://smsg.wan.360.cn">开始游戏</a></span></li><li class="odd"><span class="col col-1"><a class="" href="http://g.360.cn/kf/info?gameid=398038" title="格斗江湖">格斗江湖</a></span><span class="col col-2"><span class="">09:55</span></span><span class="col col-3"><a href="http://g.360.cn/kf/info?yysid=101157" title="360游戏中心">360游戏中心</a></span><span class="col col-4 last"><a class="start" href="http://gdjh.wan.360.cn/">开始游戏</a></span></li><li class=""><span class="col col-1"><a class="" href="http://g.360.cn/kf/info?gameid=755579" title="别惹三国ol">别惹三国ol</a></span><span class="col col-2"><span class="">09:55</span></span><span class="col col-3"><a href="http://g.360.cn/kf/info?yysid=101157" title="360游戏中心">360游戏中心</a></span><span class="col col-4 last"><a class="start" href="http://brsg.wan.360.cn/">开始游戏</a></span></li><li class="odd"><span class="col col-1"><a class="" href="http://g.360.cn/kf/info?gameid=755426" title="莽荒纪">莽荒纪</a></span><span class="col col-2"><span class="">12:30</span></span><span class="col col-3"><a href="http://g.360.cn/kf/info?yysid=101157" title="360游戏中心">360游戏中心</a></span><span class="col col-4 last"><a class="start" href="http://mhj.wan.360.cn/">开始游戏</a></span></li><li class=""><span class="col col-1"><a class="" href="http://g.360.cn/kf/info?gameid=755426" title="莽荒纪">莽荒纪</a></span><span class="col col-2"><span class="">17:00</span></span><span class="col col-3"><a href="http://g.360.cn/kf/info?yysid=101157" title="360游戏中心">360游戏中心</a></span><span class="col col-4 last"><a class="start" href="http://mhj.wan.360.cn/">开始游戏</a></span></li><li class="odd"><span class="col col-1"><a class="" href="http://g.360.cn/kf/info?gameid=740894" title="天书世界">天书世界</a></span><span class="col col-2"><span class="">19:55</span></span><span class="col col-3"><a href="http://g.360.cn/kf/info?yysid=101157" title="360游戏中心">360游戏中心</a></span><span class="col col-4 last"><a class="start" href="http://tsol.wan.360.cn">开始游戏</a></span></li><li class=""><span class="col col-1"><a class="" href="http://g.360.cn/kf/info?gameid=549838" title="雷霆之怒">雷霆之怒</a></span><span class="col col-2"><span class="">07:55</span></span><span class="col col-3"><a href="http://g.360.cn/kf/info?yysid=101157" title="360游戏中心">360游戏中心</a></span><span class="col col-4 last"><a class="start" href="http://lt2.wan.360.cn">开始游戏</a></span></li><li class="odd"><span class="col col-1"><a class="" href="http://g.360.cn/kf/info?gameid=756713" title="花千骨">花千骨</a></span><span class="col col-2"><span class="">11:00</span></span><span class="col col-3"><a href="http://g.360.cn/kf/info?yysid=101026" title="37游戏">37游戏</a></span><span class="col col-4 last"><a class="start" href="http://hqg.37.com/">开始游戏</a></span></li><li class=""><span class="col col-1"><a class="" href="http://g.360.cn/kf/info?gameid=731950" title="琅琊榜">琅琊榜</a></span><span class="col col-2"><span class="">11:00</span></span><span class="col col-3"><a href="http://g.360.cn/kf/info?yysid=101026" title="37游戏">37游戏</a></span><span class="col col-4 last"><a class="start" href="http://lyb.37.com">开始游戏</a></span></li><li class="odd"><span class="col col-1"><a class="" href="http://g.360.cn/kf/info?gameid=660610" title="传奇霸业">传奇霸业</a></span><span class="col col-2"><span class="">11:00</span></span><span class="col col-3"><a href="http://g.360.cn/kf/info?yysid=101026" title="37游戏">37游戏</a></span><span class="col col-4 last"><a class="start" href="http://mir.37.com">开始游戏</a></span></li><li class=""><span class="col col-1"><a class="" href="http://g.360.cn/kf/info?gameid=401986" title="武易">武易</a></span><span class="col col-2"><span class="">13:00</span></span><span class="col col-3"><a href="http://g.360.cn/kf/info?yysid=101026" title="37游戏">37游戏</a></span><span class="col col-4 last"><a class="start" href="http://wy.37.com/">开始游戏</a></span></li></ul></div></div></div></div><div class="right"><div class="mod recom"><div class="title"><span class="label">精选页游推荐</span><a href="http://g.360.cn/index.html#web-game-part" class="more">更多</a></div><div class="content"><ul class="pic-list gclearfix to-record" id="recomList"><li><a href="http://lqol.wan.360.cn/index.html?src=DH-yxhb1-lqol"><img src="http://p6.qhimg.com/t0124862a56d3de19d4.jpg"/><span class="txt">龙泣</span></a></li><li id="9cWFVF"><a href="http://codes.dian500.com/htmlcode/42855.html"><img src="http://p5.qhimg.com/t01b3940bb69c47d89a.jpg"/><span class="txt">蜀神</span></a></li><li><a href="http://game.1360.com/gamecard?gamekey=gkey"><img src="http://p5.qhimg.com/t01d84150ef4c2ccf6b.jpg"/><span class="txt">幻想隋唐传</span></a></li><li id="wtmUF4"><a href="http://p.ecwan77.com/s/1/202/19201.html?uid=3614007"><img src="http://p3.qhimg.com/t010c6a75f5d5c834db.jpg"/><span class="txt">唯武独尊</span></a></li><li><a href="http://p.ecwan77.com/s/1/202/19191.html?uid=3614002"><img src="http://p1.qhimg.com/t01224a6ff428d799f7.jpg"/><span class="txt">热血战纪</span></a></li><li id="hh3yMf"><a href="http://rd.1360.com/reg?src=dh-yx2zc-zsglw"><img src="http://p0.qhimg.com/t018538bc663575b4bd.jpg"/><span class="txt">真三国乱舞</span></a></li><li><a href="http://p.ecwan77.com/s/1/202/19426.html?uid=3614008"><img src="http://p6.qhimg.com/t01bf19434dc2868809.jpg"/><span class="txt">暗黑世界</span></a></li><li id="qPgvOY"><a href="http://p.ecwan77.com/s/1/202/15939.html?uid=3614003"><img src="http://p3.qhimg.com/t01af5ed8d12a1631fd.jpg"/><span class="txt">御天</span></a></li><li><a href="http://rd.1360.com/reg?src=dh-wyjxtjtp-jtzflash"><img src="http://p0.qhimg.com/t019a1420d138a136cb.jpg"/><span class="txt">九天传</span></a></li><li id="m33LLs"><a href="http://jhwj.360u9.com/activity/zc.html?source=yxpd"><img src="http://p1.qhimg.com/t012445b34d3ab8cfe0.png"/><span class="txt">江湖问剑</span></a></li><li><a href="http://p.ecwan77.com/s/1/202/19187.html?uid=3614001"><img src="http://p0.qhimg.com/t01264d51ebfb05bdc0.jpg"/><span class="txt">大闹天宫</span></a></li><li><a href="http://p.ecwan77.com/s/1/202/19247.html?uid=3614005"><img src="http://p0.qhimg.com/t0157ed17654b2de474.jpg"/><span class="txt">西游斗神</span></a></li><li id="UPlaEv"><a href="http://ad.036yx.com/1498"><img src="http://p1.qhimg.com/t01f62ba794433d2fc1.jpg"/><span class="txt">暗黑屠龙</span></a></li><li id="MHHUih"><a href="http://ad.036yx.com/1492"><img src="http://p1.qhimg.com/t01d92809d60b4eda7b.jpg"/><span class="txt">热血武尊</span></a></li><li><a href="http://rd.wan.360.cn/reg?src=dh-sy2zhbyxjdt-rxsj"><img src="http://p0.qhimg.com/t014bc2a48d8bb0c43b.jpg"/><span class="txt">热血神将</span></a></li></ul></div></div><div class="mod huodong"><div class="title"><span class="label">游戏活动&amp;礼包新手卡</span><a href="http://ka.360.cn/list?gameclass=2" class="more">更多</a></div><div class="content gclearfix"><div class="left cover" id="M8bLq5"><a href="http://game.1360.com/gamecard?gamekey=wyol"><img src="http://p0.qhimg.com/t0104c00b9902c64181.jpg"/><span class="txt">武易传奇</span></a></div><ul class="left pic-list gclearfix" id="hongDongPic"><li id="tPTfHX"><a href="http://game.1360.com/gamecard?gamekey=sxl"><img src="http://p4.qhimg.com/t01a84f541f8c17907c.jpg"/><span class="txt">神霄录</span></a></li><li id="1EtBXd"><a href="http://game.1360.com/gamecard?gamekey=zrzs"><img src="http://p0.qhimg.com/t01c9a735569c568bb8.jpg"/><span class="txt">逐日战神</span></a></li><li id="0uGTH3"><a href="http://fl.tg.wan.360.cn/515301363.html?placeid=&src=hao-gameyycard2-dtszj"><img src="http://p1.qhimg.com/t01500bd7560c2528c9.jpg"/><span class="txt">大天使之剑</span></a></li><li id="AvlVwR"><a href="http://fl.tg.wan.360.cn/515302192.html?placeid=&src=hao-gameyycard2-jzz"><img src="http://p1.qhimg.com/t0154701596138f8604.jpg"/><span class="txt">九州志</span></a></li></ul><ul class="right txt-list"><li><a href="http://wuji.wan.360.cn/getcard.php">《武极天下》新手大礼包</a></li><li><a href="http://mir2.wan.360.cn/getcard.php">《热血战歌》新手大礼包</a></li><li><a href="http://myol.wan.360.cn/getcard.php">《魔唤》新手大礼包</a></li><li><a href="http://wszzl.wan.360.cn/getcard.php">《武神赵子龙》新手大礼包</a></li><li><a href="http://jyjx.wan.360.cn/getcard.php">《九阴绝学》新手大礼包</a></li><li><a href="http://jyjh.wan.360.cn/getcard.php">《剑雨》新手大礼包</a></li><li><a href="http://zzxy.wan.360.cn/getcard.php">《主宰西游》新手大礼包</a></li><li><a href="http://sm.wan.360.cn/getcard.php">《神魔诛天》新手大礼包</a></li></ul></div></div></div></div>
+<script type="text/javascript">
+    (function() {
+        //slider
+        /*var adLoad = new AdLoad({dataUrl:"http://v.tf.360.cn/v/w.json?_=sliderlist-0,89562ea48e72bb32|sliderlist-1,1addb07e7089f9b2|sliderlist-2,923afe05f7597da2|sliderlist-3,0190d0211a991f47|sliderlist-4,710f85df22e9377d&t="+new Date().getTime()});
+        var tpl = '<li><a class="dkh-item" href="{url}" cid="{cid}"><img src="{img}"/><span class="shadow"></span><span class="des">{title}</span></a></li>';
+        option = {};
+        option.tpl = tpl;
+        option.container = "sliderList";
+        option.area = "sliderlist";
+        adLoad.add(option);*/
+
+        new AdLoad({
+            url:'http://show.g.mediav.com/s?type=1&of=4&newf=2&showids=j7Mql2_e8H0zM_MFQuBe_vwvF7V_14RtlC',
+            template: '<a href="{{curl}}"><img src="{{img}}"/><span class="shadow"></span><span class="des">{{desc}}</span></a>'
+        });
+
+        // 幻灯片
+        asy_dom_st["sliderlist"] = true;
+
+        //推荐游戏	
+        // var adLoad1 = new AdLoad({dataUrl:"http://v.tf.360.cn/v/w.json?_=recomlist-0,4e4ad797d42350c9|recomlist-1,1661056eadbf798b|recomlist-2,1c450ffdacb31483|recomlist-3,9122ce2e50136bda|recomlist-4,a4c1b3c2aa868d6d|recomlist-5,5e4deb67d7ce42d5|recomlist-6,c086f236fabf61d6|recomlist-7,74ee78a0e58c68be|recomlist-8,70f45317ffd28124|recomlist-9,4041cadbf9d61ae1|recomlist-10,678a8d5fdb372271|recomlist-11,fba6075a9494772b|recomlist-12,65dd9420816bfec5|recomlist-13,ea7ef51c1104ccf7|recomlist-14,d5f5359033879195&t="+new Date().getTime()});
+        // var tpl1 = '<li><a class="dkh-item" href="{url}" cid="{cid}"><img src="{img}"/><span class="txt">{title}</span></a></li>';
+        // option1 = {};
+        // option1.tpl = tpl1;
+        // option1.container = "recomList";
+        // option1.area = "recomlist";
+        // adLoad1.add(option1);
+
+        // 开启玩平台广告
+        asy_dom_st["recomlist"] = true;
+
+        /* wan广告加载 精选页游推荐区域 */
+        var tpl5 = '<li><a class="wan-item" href="{url}" cid="{cid}"><img src="{img}"><span class="txt">{title}</span></a></li>',
+            dataUrl = "http://nav.eye.mygame82.com/api/getList?bid=recomlist&_callback=%callbackfun%&t="+new Date().getTime(),
+            option5 = {
+                dataUrl : dataUrl,
+                tpl : tpl5,
+                container : 'recomList',
+                area : 'recomlist',
+                posConf : {
+                    '515303251' : [
+                        {
+                            query : 'li',
+                            index : 0
+                        }
+                    ],
+                    '515303252' : [
+                        {
+                            query : 'li',
+                            index : 2
+                        }
+                    ],
+                    '515303253' : [
+                        {
+                            query : 'li',
+                            index : 4
+                        }
+                    ],
+                    '515303254' : [
+                        {
+                            query : 'li',
+                            index : 6
+                        }
+                    ],
+                    '515303255' : [
+                        {
+                            query : 'li',
+                            index : 8
+                        }
+                    ],
+                    '515303256' : [
+                        {
+                            query : 'li',
+                            index : 10
+                        }
+                    ],
+                    '515303257' : [
+                        {
+                            query : 'li',
+                            index : 11
+                        }
+                    ],
+                    '515303258' : [
+                        {
+                            query : 'li',
+                            index : 14
+                        }
+                    ]
+                },
+                otherAdArea : ['recomlist'],
+                reserveAttr: ['id'],
+                successCallbackFun: function () {
+                  new AdLoad({
+                    url:'http://show.g.mediav.com/s?type=1&of=4&newf=2&showids=fmj2w8_9cWFVF_zEDqtX_wtmUF4_lYE1bg_hh3yMf_QqZ6Ox_qPgvOY_hKrcQO_m33LLs_OMlhuO_H6Xohr_UPlaEv_MHHUih_QMUu7C',
+                    template: '<a href="{{curl}}"><img src="{{img}}"/><span class="txt">{{desc}}</span></a>'
+                  });
+                }
+            };
+        var adLoad5 = new AdWan(option5); 
+        adLoad5.getData();
+
+        // 游戏活动&礼包新手卡大图
+        // var adLoad2 = new AdLoad({dataUrl:"http://v.tf.360.cn/v/w.json?_=hongdongcover-0,016cb1f807ea47b5&t="+new Date().getTime()});
+        // var tpl2 = '<a class="dkh-item" href="{url}" cid="{cid}"><img src="{img}"/><span class="txt">{title}</span></a>';
+        // option2 = {};
+        // option2.tpl = tpl2;
+        // option2.container = "hongDongCover";
+        // option2.area = "hongdongcover";
+        // adLoad2.add(option2);
+
+        // 游戏活动&礼包新手卡小图
+        // var adLoad3 = new AdLoad({dataUrl:"http://v.tf.360.cn/v/w.json?_=hongdongpic-0,a4f1055bed9e4faf|hongdongpic-1,aa49d95302179246|hongdongpic-2,35e5997f77635b13|hongdongpic-3,caa75e4644fd2869&t="+new Date().getTime()});
+        // var tpl3 = '<li><a  class="dkh-item" href="{url}" cid="{cid}"><img src="{img}"/><span class="txt">{title}</span></a></li>';
+        // option3 = {};
+        // option3.tpl = tpl3;
+        // option3.container = "hongDongPic";
+        // option3.area = "hongdongpic";
+        // adLoad3.add(option3); 
+
+        
+
+        // 开启wan平台广告
+        asy_dom_st["hongdongcover"] = true;
+        /* wan广告加载 游戏活动大图 */
+        var tpl6 = '<a class="wan-item" href="{url}" cid="{cid}"><img src="{img}"><span class="txt">{title}</span></a>',
+            dataUrl6 = "http://nav.eye.mygame82.com/api/getList?bid=hongdongcover&_callback=%callbackfun%&t="+new Date().getTime(),
+            option6 = {
+                dataUrl : dataUrl6,
+                tpl : tpl6,
+                container : 'M8bLq5',
+                area : 'hongdongcover',
+                posConf : {
+                    '515303259' : [
+                        {
+                            query : 'a',
+                            index : 0
+                        }
+                    ]
+                },
+                otherAdArea : ['hongdongcover'],
+                reserveAttr: ['id'],
+                successCallbackFun: function () {
+                  new AdLoad({
+                    url:'http://show.g.mediav.com/s?type=1&of=4&newf=2&showids=M8bLq5',
+                    template: '<a href="{{curl}}"><img src="{{img}}"/><span class="txt">{{desc}}</span></a>'
+                  });
+                }
+            };
+        var adLoad6 = new AdWan(option6); 
+        adLoad6.getData();
+
+        // 开启wan平台广告
+        asy_dom_st["hongdongpic"] = true;
+        /* wan广告加载 游戏活动小图 */
+        var tpl7 = '<li><a class="wan-item" href="{url}" cid="{cid}"><img src="{img}"><span class="txt">{title}</span></a></li>',
+            dataUrl7 = "http://nav.eye.mygame82.com/api/getList?bid=hongdongpic&_callback=%callbackfun%&t="+new Date().getTime(),
+            option7 = {
+                dataUrl : dataUrl7,
+                tpl : tpl7,
+                container : 'hongDongPic',
+                area : 'hongdongpic',
+                posConf : {
+                    '515303260' : [
+                        {
+                            query : 'li',
+                            index : 0
+                        }
+                    ],
+                    '515303261' : [
+                        {
+                            query : 'li',
+                            index : 1
+                        }
+                    ],
+                    '515303262' : [
+                        {
+                            query : 'li',
+                            index : 2
+                        }
+                    ],
+                    '515303263' : [
+                        {
+                            query : 'li',
+                            index : 3
+                        }
+                    ]
+                },
+                otherAdArea : ['hongdongpic'],
+                reserveAttr: ['id'],
+                successCallbackFun: function () {
+                  new AdLoad({
+                    url:'http://show.g.mediav.com/s?type=1&of=4&newf=2&showids=tPTfHX_1EtBXd_0uGTH3_AvlVwR',
+                    template: '<a href="{{curl}}"><img src="{{img}}"/><span class="txt">{{desc}}</span></a>'
+                  });
+                }
+            };
+        var adLoad7 = new AdWan(option7); 
+        adLoad7.getData();
+    })();
+</script>       
+       <div class="mid-ads" id="PKpQAd"><a href="http://rd.1360.com/reg?src=dh-wyyxjdyywzl-jtzflash"><img src="http://p4.qhimg.com/t01acc0169ef2b58dcc.jpg"/></a></div>
+<script type="text/javascript">
+    (function() {
+        /*var adLoad = new AdLoad({dataUrl:"http://v.tf.360.cn/v/w.json?_=midads-0,32cfd12577bc2619&t="+new Date().getTime()});
+        var tpl = '<a class="dkh-item" cid="{cid}" href="{url}"><img src="{img}"/></a>';
+        option = {};
+        option.tpl = tpl;
+        option.container = "midAds";
+        option.area = "midads";
+        adLoad.add(option);*/
+
+        new AdLoad({
+            url:'http://show.g.mediav.com/s?type=1&of=4&newf=2&showids=PKpQAd',
+            template: '<a href="{{curl}}"><img src="{{img}}"/></a>'
+        });
+    })();
+</script>       
+       <div class="mod new-game"><div class="title"><span class="label">最新游戏推荐</span><a class="more" href="http://g.360.cn/kf">更多</a></div><div class="content"><div class="pic-player"><div class="cont"><ul class="list gclearfix"  id="newGameList"><li class="type-1" id="UzHkO5"><a href="http://p.ecwan77.com/s/1/202/19427.html?uid=3618008"><img src="http://p3.qhimg.com/t013e97176f0ae80e9f.jpg"/></a><div class="info gclearfix"><div class="des left"><a class="name" href="http://p.ecwan77.com/s/1/202/19427.html?uid=3618008">暗黑世界</a><span class="type">角色扮演</span></div><a href="http://p.ecwan77.com/s/1/202/19427.html?uid=3618008" class="right start">开始游戏</a></div></li><li class="type-2" id="Twy3BT"><a href="http://rd.1360.com/reg?src=dh-yx2zg-jtzflash"><img src="http://p3.qhimg.com/t012a629d4fab1e9413.jpg"/></a><div class="info gclearfix"><div class="des left"><a class="name" href="http://rd.1360.com/reg?src=dh-yx2zg-jtzflash">九天传</a><span class="type">角色扮演</span></div><a href="http://rd.1360.com/reg?src=dh-yx2zg-jtzflash" class="right start">开始游戏</a></div></li><li class="type-3" id="W57icY"><a href="http://rd.1360.com/go?src=dh-yx2zg-wyol"><img src="http://p2.qhimg.com/t01af475c489a2aff95.jpg"/></a><div class="info gclearfix"><div class="des left"><a class="name" href="http://rd.1360.com/go?src=dh-yx2zg-wyol">武易传奇</a><span class="type">角色扮演</span></div><a href="http://rd.1360.com/go?src=dh-yx2zg-wyol" class="right start">开始游戏</a></div></li><li class="type-4" id="NChhaH"><a href="http://rd.wan.360.cn/reg?src=dh-sy2zhbyxjdt-rxsj"><img src="http://p8.qhimg.com/t01c60116eef8cc132e.jpg"/></a><div class="info gclearfix"><div class="des left"><a class="name" href="http://rd.wan.360.cn/reg?src=dh-sy2zhbyxjdt-rxsj">热血神将</a><span class="type">角色扮演</span></div><a href="http://rd.wan.360.cn/reg?src=dh-sy2zhbyxjdt-rxsj" class="right start">开始游戏</a></div></li><li class="type-5" id="A9IzD1"><a href="http://p.ecwan77.com/s/1/202/15938.html?uid=3618003"><img src="http://p8.qhimg.com/t01421c146d89b37465.jpg"/></a><div class="info gclearfix"><div class="des left"><a class="name" href="http://p.ecwan77.com/s/1/202/15938.html?uid=3618003">御天</a><span class="type">角色扮演</span></div><a href="http://p.ecwan77.com/s/1/202/15938.html?uid=3618003" class="right start">开始游戏</a></div></li><li class="type-1" id="2ISWVi"><a href="http://fl.tg.wan.360.cn/515301419.html?placeid=&src=hao-gameyynew-qsls"><img src="http://p1.qhimg.com/t01fde5023a8a4002cb.jpg"/></a><div class="info gclearfix"><div class="des left"><a class="name" href="http://fl.tg.wan.360.cn/515301419.html?placeid=&src=hao-gameyynew-qsls">倾世洛神</a><span class="type">角色扮演</span></div><a href="http://fl.tg.wan.360.cn/515301419.html?placeid=&src=hao-gameyynew-qsls" class="right start">开始游戏</a></div></li><li class="type-2" id="WntS7q"><a href="http://rd.1360.com/go?src=dh-yx2zg-zjsg"><img src="http://p0.qhimg.com/t01c56d04726f8a535d.png"/></a><div class="info gclearfix"><div class="des left"><a class="name" href="http://rd.1360.com/go?src=dh-yx2zg-zjsg">真假三国</a><span class="type">SLG</span></div><a href="http://rd.1360.com/go?src=dh-yx2zg-zjsg"class="right start">开始游戏</a></div></li><li class="type-3" id="AyS1JR"><a href="http://rd.1360.com/go?src=dh-yx2zg-jzyf"><img src="http://p9.qhimg.com/t015b91a9286d9088dd.jpg"/></a><div class="info gclearfix"><div class="des left"><a class="name" href="http://rd.1360.com/go?src=dh-yx2zg-jzyf">精忠岳飞</a><span class="type">角色扮演</span></div><a href="http://rd.1360.com/go?src=dh-yx2zg-jzyf" class="right start">开始游戏</a></div></li><li class="type-4" id="E6TYJ9"><a href="http://rd.1360.com/go?src=dh-yx2zg-sxl"><img src="http://p9.qhimg.com/t013857a5de30a5eaba.jpg"/></a><div class="info gclearfix"><div class="des left"><a class="name" href="http://rd.1360.com/go?src=dh-yx2zg-sxl">神霄录</a><span class="type">角色扮演</span></div><a href="http://rd.1360.com/go?src=dh-yx2zg-sxl" class="right start">开始游戏</a></div></li><li class="type-5" id="pen8Sc"><a href="http://fl.tg.wan.360.cn/515301906.html?placeid=&src=hao-gameyynew-zwx"><img src="http://p2.qhimg.com/t01439e24cdef918ccc.jpg"/></a><div class="info gclearfix"><div class="des left"><a class="name" href="http://fl.tg.wan.360.cn/515301906.html?placeid=&src=hao-gameyynew-zwx">醉武侠</a><span class="type">角色扮演</span></div><a href="http://fl.tg.wan.360.cn/515301906.html?placeid=&src=hao-gameyynew-zwx" class="right start">开始游戏</a></div></li><li class="type-1" id="sOuyaK"><a href="http://fl.tg.wan.360.cn/515301422.html?placeid=&src=hao-gameyynew-mlj"><img src="http://p9.qhimg.com/t01e50b4bac9031a782.jpg"/></a><div class="info gclearfix"><div class="des left"><a class="name" href="http://fl.tg.wan.360.cn/515301422.html?placeid=&src=hao-gameyynew-mlj">魔龙诀</a><span class="type">角色扮演</span></div><a href="http://fl.tg.wan.360.cn/515301422.html?placeid=&src=hao-gameyynew-mlj" class="right start">开始游戏</a></div></li><li class="type-2" id="3XVpxj"><a href="http://fl.tg.wan.360.cn/515301411.html?placeid=&src=hao-gameyynew-dtszj"><img src="http://p0.qhimg.com/t01d692cdc55f8a6f69.jpg"/></a><div class="info gclearfix"><div class="des left"><a class="name" href="http://fl.tg.wan.360.cn/515301411.html?placeid=&src=hao-gameyynew-dtszj">大天使之剑</a><span class="type">角色扮演</span></div><a href="http://fl.tg.wan.360.cn/515301411.html?placeid=&src=hao-gameyynew-dtszj" class="right start">开始游戏</a></div></li><li class="type-3" id="zK4e3V"><a href="http://fl.tg.wan.360.cn/515301410.html?placeid=&src=hao-gameyynew-hazg"><img src="http://p1.qhimg.com/t0176cf7869fda61daf.png"/></a><div class="info gclearfix"><div class="des left"><a class="name" href="http://fl.tg.wan.360.cn/515301410.html?placeid=&src=hao-gameyynew-hazg">黑暗之光</a><span class="type">角色扮演</span></div><a href="http://rd.wan.360.cn/go?src=hao-gameyynew-hazgflash" class="right start">开始游戏</a></div></li><li class="type-4" id="azjffN"><a href="http://rd.1360.com/go?src=dh-yx2zg-jzqk"><img src="http://p6.qhimg.com/t012aac6a9ef1a56d9b.jpg"/></a><div class="info gclearfix"><div class="des left"><a class="name" href="http://rd.1360.com/go?src=dh-yx2zg-jzqk">九转乾坤</a><span class="type">角色扮演</span></div><a href="http://rd.1360.com/go?src=dh-yx2zg-jzqk" class="right start">开始游戏</a></div></li><li class="type-5" id="5ULG7k"><a href="http://rd.1360.com/go?src=dh-yx2zg-zrzs"><img src="http://p4.qhimg.com/t019cee9e5f5136e727.jpg"/></a><div class="info gclearfix"><div class="des left"><a class="name" href="http://rd.1360.com/go?src=dh-yx2zg-zrzs">逐日战神</a><span class="type">角色扮演</span></div><a href="http://rd.1360.com/go?src=dh-yx2zg-zrzs" class="right start">开始游戏</a></div></li></ul></div><a href="#" class="op pre"></a><a href="#" class="op next"></a></div></div></div>
+<script type="text/javascript">
+    (function() {
+        // var adLoad = new AdLoad({dataUrl:"http://v.tf.360.cn/v/w.json?_=newgamelist-0,c3dc3a68b399058c|newgamelist-1,36118cc404dec4a0|newgamelist-2,915f4f24853fc419|newgamelist-3,b7f5b6bbd91822c0|newgamelist-4,3d487e9e29bd20e2|newgamelist-5,9d2c1590daf9a373|newgamelist-6,42abbc15e363cb67|newgamelist-7,44278864da88c2fd|newgamelist-8,e5002e87e0477099|newgamelist-9,7bf970f00f1dfdce|newgamelist-10,391a59dc65b88b70|newgamelist-11,519bddaa88aa1b24|newgamelist-12,d412c2514ee46a09|newgamelist-13,97a373e6c3cd5ae2|newgamelist-14,2dcf068c49894bd0&t="+new Date().getTime()});
+        // var tpl = '<li class="type-{index}"><a class="dkh-item" cid="{cid}" href="{url}"><img src="{img}"/></a><div class="info gclearfix"><div class="des left"><a class="name" href="{url}">{title}</a><span class="type">{desc}</span></div><a href="{url}" class="right start">开始游戏</a></div></li>';
+        // option = {};
+        // option.tpl = tpl;
+        // option.container = "newGameList";
+        // option.area = "newgamelist";
+        // adLoad.add(option);
+
+        new AdLoad({
+            url:'http://show.g.mediav.com/s?type=1&of=4&newf=2&showids=UzHkO5_Twy3BT_W57icY_NChhaH_A9IzD1_2ISWVi_WntS7q_AyS1JR_E6TYJ9_pen8Sc_sOuyaK_3XVpxj_zK4e3V_azjffN_5ULG7k',
+            template: '<div><a href="{{curl}}"><img src="{{img}}"/></a> <div class="info gclearfix"> <div class="des left"> <a class="name" href="{{curl}}">{{desc}}</a> <span class="type">{{desc}}</span> </div> <a href="{{curl}}" class="right start">开始游戏</a> </div></div>'
+        });
+
+        // 幻灯片
+        asy_dom_st["newgamelist"] = true;
+
+        /* wan广告加载 最新游戏推荐区域 */
+        var tpl2 = '<li><a class="wan-item" cid="{cid}" href="{url}"><img src="{img}"></a><div class="info gclearfix"><div class="des left"><a class="name" href="{url}">{title}</a><span class="type">{title}</span></div><a href="{url}" class="right start">开始游戏</a></div></li>',
+            dataUrl = "http://nav.eye.mygame82.com/api/getList?bid=newgamelist&_callback=%callbackfun%&t="+new Date().getTime(),
+            option2 = {
+                dataUrl : dataUrl,
+                tpl : tpl2,
+                container : 'newGameList',
+                area : 'newgamelist',
+                reserveAttr : ['class'],
+                posConf : {
+                    '515303264' : [
+                        {
+                            query : 'li',
+                            index : 0
+                        }
+                    ],
+                    '515303265' : [
+                        {
+                            query : 'li',
+                            index : 3
+                        }
+                    ],
+                    '515303266' : [
+                        {
+                            query : 'li',
+                            index : 4
+                        }
+                    ],
+                    '515303267' : [
+                        {
+                            query : 'li',
+                            index : 5
+                        }
+                    ],
+                    '515303268' : [
+                        {
+                            query : 'li',
+                            index : 7
+                        }
+                    ],
+                    '515303269' : [
+                        {
+                            query : 'li',
+                            index : 9
+                        }
+                    ],
+                    '515303270' : [
+                        {
+                            query : 'li',
+                            index : 10
+                        }
+                    ],
+                    '515303271' : [
+                        {
+                            query : 'li',
+                            index : 11
+                        }
+                    ],
+                    '515303272' : [
+                        {
+                            query : 'li',
+                            index : 12
+                        }
+                    ],
+                    '515303273' : [
+                        {
+                            query : 'li',
+                            index : 13
+                        }
+                    ],
+                    '515303274' : [
+                        {
+                            query : 'li',
+                            index : 14
+                        }
+                    ]
+                },
+                waitOtherAd : true,
+                otherAdArea : ['newgamelist'],
+                successCallbackFun : function(){
+                	//数据更新成功标识
+                	asy_dom_st['newgamelist_wan'] = true;
+                }
+            };
+        var adLoad2 = new AdWan(option2);
+        adLoad2.getData();
+    })();
+</script>       
+       <div class="mod classic"><div class="title"><span class="label">经典网页游戏</span><span class="des">热门经典老游戏，让你轻轻松松找到！</span><a href="http://g.360.cn/detail/list?class=4" class="more">更多</a></div><div class="content to-record"><ul class="pic-list gclearfix" id="classicGameList"><li id="Vhq8ae"><a href="http://rd.1360.com/go?src=dh-wyyxjdyywzl-zsglw"><img src="http://p3.qhimg.com/t0122998b2c230305f4.jpg"/><span class="txt">真三国乱舞</span></a></li><li id="o5onaS"><a href="http://p.ecwan77.com/s/1/202/15938.html?uid=3615003"><img src="http://p1.qhimg.com/t01653cbfdf7bc7aad3.jpg"/><span class="txt">御天</span></a></li><li id="0mnxJL"><a href="http://p.ecwan77.com/s/1/202/19248.html?uid=3615005"><img src="http://p0.qhimg.com/t0157ed17654b2de474.jpg"/><span class="txt">西游斗神</span></a></li><li id="GpKM5x"><a href="http://rd.wan.360.cn/go?src=DH-yx2tz-lqol"><img src="http://p2.qhimg.com/t01201e5821172d4596.jpg"/><span class="txt">龙泣</span></a></li><li id="7LeXYq"><a href="http://xxj.wan.360.cn/?src=DH-yxhb1-xxj"><img src="http://p9.qhimg.com/t0187445b8384dd6611.jpg"/><span class="txt">新仙剑</span></a></li><li id="P3Ay2j"><a href="http://rd.wan.360.cn/go?src=DH-yx2tz-sctx"><img src="http://p2.qhimg.com/t017e135885d35aa9d9.jpg"/><span class="txt">神创天下</span></a></li><li id="xHQhDO"><a href="http://p.ecwan77.com/s/1/202/19202.html?uid=3615007"><img src="http://p3.qhimg.com/t010c6a75f5d5c834db.jpg"/><span class="txt">唯武独尊</span></a></li><li id="1M53of"><a href="http://rd.1360.com/go?src=dh-wyyxjdyywzl-sgfs"><img src="http://p2.qhimg.com/t01530dff8cfc443099.jpg"/><span class="txt">上古封神</span></a></li><li id="MVYjoA"><a href="http://p.ecwan77.com/s/1/202/19188.html?uid=3615001"><img src="http://p8.qhimg.com/t01264d51ebfb05bdc0.jpg"/><span class="txt">大闹天宫</span></a></li><li id="TWDKiX"><a href="http://rd.1360.com/go?src=dh-wyyxjdyywzl-jtzflash"><img src="http://p2.qhimg.com/t0178a4c69ea533b9ee.jpg"/><span class="txt">九天传</span></a></li><li id="77VFBv"><a href="http://rd.1360.com/go?src=dh-wyyxjdyy-wyol"><img src="http://p7.qhimg.com/t0154e7a7e72b39b100.jpg"/><span class="txt">武易传奇</span></a></li><li id="PUUPZj"><a href="http://rd.wan.360.cn/reg?src=dh-sy2zhbyxjdt-rxsj"><img src="http://p1.qhimg.com/t01ec1cb8dae41ff075.jpg"/><span class="txt">热血神将</span></a></li><li id="HHVW6B"><a href="http://p.ecwan77.com/s/1/202/19192.html?uid=3615002"><img src="http://p1.qhimg.com/t01224a6ff428d799f7.jpg"/><span class="txt">热血战纪</span></a></li><li id="XfIKEa"><a href="http://jhwj.360u9.com/activity/zc.html?source=yxpd"><img src="http://p7.qhimg.com/t01f5807b1a88428b5a.png"/><span class="txt">江湖问剑</span></a></li></ul><div class="txt-list gclearfix"><ul><li><span class="type">【角色扮演】</span></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304355&placeid="><img src="http://p4.qhimg.com/t0148468885ab620237.jpg"/>神印王座</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304357&placeid="><img src="http://p2.qhimg.com/t016a1685fc0d4f61c6.png"/>魔神战域</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304359&placeid="><img src="http://p2.qhimg.com/t018e83cd3fae13f6e6.png"/>烈火封神</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304361&placeid="><img src="http://p2.qhimg.com/t01639c9d346de6c9be.jpg"/>攻沙</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304363&placeid="><img src="http://p3.qhimg.com/t01b82eac4f4ce21a8c.jpg"/>神仙劫</a></li></ul><ul><li><span class="type">【PK最爽】</span></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304365&placeid="><img src="http://p0.qhimg.com/t01dfe628f7f70ceda9.png"/>乾坤战纪</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304367&placeid="><img src="http://p1.qhimg.com/t01c8aa16acae2eae2a.jpg"/>盗墓笔记</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304369&placeid="><img src="http://p1.qhimg.com/t01bfaa9dcdd2defd35.png"/>神鬼无双</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304371&placeid="><img src="http://p3.qhimg.com/t01524ca63203dd1c85.png"/>大天使之剑</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304373&placeid="><img src="http://p2.qhimg.com/t018e7feb42a657f4bd.jpg"/>剑侠情缘兵器谱</a></li></ul><ul><li><span class="type">【三国混战】</span></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304375&placeid="><img src="http://p0.qhimg.com/t01b341d2fea2e08667.jpg"/>龙之歌</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304377&placeid="><img src="http://p3.qhimg.com/t01bce581fc5a3e9ec6.jpg"/>热血神将</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304379&placeid="><img src="http://p4.qhimg.com/t016cb7f7753c2f7edd.png"/>姬战三国</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304381&placeid="><img src="http://p1.qhimg.com/t01dbb8fab5d34baa25.png"/>帝王传</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304383&placeid="><img src="http://p3.qhimg.com/t01475d24bca2097a2b.png"/>锦衣夜行</a></li></ul><ul><li><span class="type">【武侠江湖】</span></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304385&placeid="><img src="http://p3.qhimg.com/t01d1d07fd4fa0c3dfa.jpg"/>怒斩千军</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304387&placeid="><img src="http://p0.qhimg.com/t0181062a622ba82d97.jpg"/>君王之路</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304389&placeid="><img src="http://p2.qhimg.com/t01690f75e20826a82d.png"/>龙之炎黄魂</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304391&placeid="><img src="http://p9.qhimg.com/t01868fb18d5332d59c.png"/>传奇霸业</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304393&placeid="><img src="http://p8.qhimg.com/t01487868fa22465c37.jpg"/>大战神</a></li></ul><ul><li><span class="type">【名著改编】</span></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304395&placeid="><img src="http://p8.qhimg.com/t011b402c1e494cc7b9.jpg"/>原始传奇</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304397&placeid="><img src="http://p9.qhimg.com/t010927d1b4084c4f3b.jpg"/>武神赵子龙</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304399&placeid="><img src="http://p4.qhimg.com/t01080c42c8a07b647c.jpg"/>女神联盟2</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304401&placeid="><img src="http://p5.qhimg.com/t01dbe9f32b03445a33.jpg"/>大皇帝</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304403&placeid="><img src="http://p2.qhimg.com/t0191e1d24d820b741c.png"/>攻城掠地</a></li></ul><ul><li><span class="type">【动漫改编】</span></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304405&placeid="><img src="http://p2.qhimg.com/t019c4e6451a44a1c3e.jpg"/>热血三国3</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304407&placeid="><img src="http://p8.qhimg.com/t0194f9f8d4c1d2fe06.jpg"/>青云志</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304409&placeid="><img src="http://p3.qhimg.com/t01e6f135b82858dc3e.jpg"/>大将军</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304411&placeid="><img src="http://p1.qhimg.com/t01aaec0561e7349025.png"/>第一舰队</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304413&placeid="><img src="http://p4.qhimg.com/t014ab6d695deb0db7d.jpg"/>特战英雄</a></li></ul><ul class="last"><li><span class="type">【战争策略】</span></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304415&placeid="><img src="http://p1.qhimg.com/t019cdfdec28de2ebc9.jpg"/>完美漂移</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304417&placeid="><img src="http://p4.qhimg.com/t0104e275f076a7fbf9.png"/>梦幻恋舞</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304419&placeid="><img src="http://p2.qhimg.com/t0106f04ca7fac0e971.jpg"/>冒险世界</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304421&placeid="><img src="http://p0.qhimg.com/t016e86da6bea61afd9.png"/>大唐盛世</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304423&placeid="><img src="http://p1.qhimg.com/t015a021d03769e2ab1.png"/>三国群雄传</a></li></ul></div><div class="txt-list gclearfix"><ul><li><span class="type">【美女陪玩】</span></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304425&placeid="><img src="http://p4.qhimg.com/t0126db2fb29b7b671b.jpg"/>最佳阵容</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304427&placeid="><img src="http://p1.qhimg.com/t019dec1c07df3ec5d2.jpg"/>魔法王座</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304429&placeid="><img src="http://p0.qhimg.com/t01bbb22ab6a14bcc7b.jpg"/>范伟打天下</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304431&placeid="><img src="http://p0.qhimg.com/t01516881a03f472c3a.jpg"/>生死簿</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304433&placeid="><img src="http://p4.qhimg.com/t01e9d38b19f8e08e42.png"/>神魔传说</a></li></ul><ul><li><span class="type">【休闲养成】</span></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304435&placeid="><img src="http://p1.qhimg.com/t0198f95dac0d9eadb9.jpg"/>我欲封天</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304437&placeid="><img src="http://p7.qhimg.com/t0184abce86137f8b25.jpg"/>绝世武神</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304439&placeid="><img src="http://p4.qhimg.com/t018df996fd30ce4a28.jpg"/>斗侠</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304441&placeid="><img src="http://p8.qhimg.com/t0169059896d6235616.png"/>唐门六道</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304443&placeid="><img src="http://p3.qhimg.com/t018e6388e51f0e82f2.png"/>决战武林</a></li></ul><ul><li><span class="type">【适合儿童】</span></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304445&placeid="><img src="http://p5.qhimg.com/t0162b24d29c12d9310.jpg"/>赤月传说2</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304447&placeid="><img src="http://p8.qhimg.com/t010b541cbf81fef0a7.jpg"/>三国之怒</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304449&placeid="><img src="http://p4.qhimg.com/t019a89e523eacd2543.jpg"/>通天西游</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304451&placeid="><img src="http://p5.qhimg.com/t01c5f57e9eeb3707bc.jpg"/>热血战歌</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304453&placeid="><img src="http://p1.qhimg.com/t019b1cd555f0bf6460.jpg"/>剑雨江湖</a></li></ul><ul><li><span class="type">【火爆3D】</span></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304455&placeid="><img src="http://p6.qhimg.com/t01132d6b4239018233.jpg"/>九阴绝学</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304457&placeid="><img src="http://p4.qhimg.com/t015e2817229ef7d237.jpg"/>武极天下</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304459&placeid="><img src="http://p4.qhimg.com/t0139fd7a991fe5ae1c.jpg"/>铁骑冲锋</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304461&placeid="><img src="http://p6.qhimg.com/t01876bfc3fc3f6a9ab.jpg"/>蓝月传奇</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304463&placeid="><img src="http://p1.qhimg.com/t01d65f631ac4b02eec.png"/>剑侠情缘2</a></li></ul><ul><li><span class="type">【横版闯关】</span></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304465&placeid="><img src="http://p3.qhimg.com/t0108bf124fa056e71b.jpg"/>人鱼传说</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304467&placeid="><img src="http://p1.qhimg.com/t01156e0ccb8b2c47b7.png"/>修天决</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304469&placeid="><img src="http://p4.qhimg.com/t01daa2a96b68cf0cdc.png"/>武炼巅峰</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304471&placeid="><img src="http://p2.qhimg.com/t018d7cd308f1798a52.png"/>秦时明月</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304473&placeid="><img src="http://p0.qhimg.com/t0173618db2c4ec0872.jpg"/>奇迹重生</a></li></ul><ul><li><span class="type">【回合RPG】</span></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304475&placeid="><img src="http://p4.qhimg.com/t01dacbcbdbe645d4b5.png"/>五鼠闹东京</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304477&placeid="><img src="http://p1.qhimg.com/t01f00431a32495f8a3.jpg"/>斗罗大陆</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304479&placeid="><img src="http://p7.qhimg.com/t012a1e05665dfe63c7.jpg"/>主宰西游</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304481&placeid="><img src="http://p1.qhimg.com/t01734a94b33175171e.jpg"/>村长打天下</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304483&placeid="><img src="http://p6.qhimg.com/t01567afa59dad2db1d.jpg"/>铁骑三国</a></li></ul><ul class="last"><li><span class="type">【技能最炫】</span></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304485&placeid="><img src="http://p5.qhimg.com/t01e92d663bf75c0c72.jpg"/>仙侠道2</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304487&placeid="><img src="http://p1.qhimg.com/t01d55f5f6b2f5ef9c4.jpg"/>云中歌</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304489&placeid="><img src="http://p1.qhimg.com/t016f2e19452fbcf67d.jpg"/>龙之领主</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304491&placeid="><img src="http://p1.qhimg.com/t019d3a9ea1bd41e20b.png"/>龙麟圣域</a></li><li><a href="http://dev.tg.wan.360.cn/?channel=515304493&placeid="><img src="http://p1.qhimg.com/t0108c71707a98a435e.jpg"/>战魔三国</a></li></ul></div></div></div>
+<script type="text/javascript">
+    (function() {
+        // var adLoad = new AdLoad({dataUrl:"http://v.tf.360.cn/v/w.json?_=classicgamelist-0,c82e712e50c580c0|classicgamelist-1,7c8389a8a1a541a7|classicgamelist-2,1e1049195d7b26d0|classicgamelist-3,ae4a79e78aaeda80|classicgamelist-4,69f16e0238f741fa|classicgamelist-5,3762632813f9e35f|classicgamelist-6,4237225a6f6c7d80|classicgamelist-7,7c204239c9635426|classicgamelist-8,80c42f2588878a9d|classicgamelist-9,d59581717e06eb18|classicgamelist-10,6df344b0010f5390|classicgamelist-11,4ad6626e957d15b0|classicgamelist-12,ca267bf1fb86cf43|classicgamelist-13,22f61f8f06494c97&t="+new Date().getTime()});
+        // var tpl = '<li><a class="dkh-item" cid="{cid}" href="{url}"><img src="{img}"/><span class="txt">{title}</span></a></li>';
+        // option = {};
+        // option.tpl = tpl;
+        // option.container = "classicGameList";
+        // option.area = "classicgamelist";
+        // adLoad.add(option);
+
+        // 开启玩平台广告
+        asy_dom_st["classicgamelist"] = true;
+        /* wan广告加载 经典网页游戏 */
+        var tpl2 = '<li><a class="wan-item" cid="{cid}" href="{url}"><img src="{img}"><span class="txt">{title}</span></a></li>',
+            dataUrl = "http://nav.eye.mygame82.com/api/getList?bid=classicgamelist&_callback=%callbackfun%&t="+new Date().getTime(),
+            option2 = {
+                dataUrl : dataUrl,
+                tpl : tpl2,
+                container : 'classicGameList',
+                area : 'classicgamelist',
+                posConf : {
+                    '515303275' : [
+                        {
+                            query : 'li',
+                            index : 0
+                        }
+                    ],
+                    '515303276' : [
+                        {
+                            query : 'li',
+                            index : 1
+                        }
+                    ],
+                    '515303277' : [
+                        {
+                            query : 'li',
+                            index : 4
+                        }
+                    ],
+                    '515303278' : [
+                        {
+                            query : 'li',
+                            index : 5
+                        }
+                    ],
+                    '515303279' : [
+                        {
+                            query : 'li',
+                            index : 9
+                        }
+                    ],
+                    '515303280' : [
+                        {
+                            query : 'li',
+                            index : 10
+                        }
+                    ],
+                    '515303281' : [
+                        {
+                            query : 'li',
+                            index : 13
+                        }
+                    ]
+                },
+                waitOtherAd : true,
+                otherAdArea : ['classicgamelist'],
+                reserveAttr: ['id'],
+                successCallbackFun: function () {
+                  new AdLoad({
+                    url:'http://show.g.mediav.com/s?type=1&of=4&newf=2&showids=Vhq8ae_o5onaS_0mnxJL_GpKM5x_7LeXYq_P3Ay2j_xHQhDO_1M53of_MVYjoA_TWDKiX_77VFBv_PUUPZj_HHVW6B_XfIKEa',
+                    template: '<a href="{{curl}}"><img src="{{img}}"/><span class="txt">{{desc}}</span></a>'
+                  });
+                }
+            };
+        var adLoad2 = new AdWan(option2); 
+        adLoad2.getData();
+    })();
+</script>       
+        
+        <div class="grid-1c">
+            
+            <div style="width:1000px;margin: 10px auto 0;overflow:hidden;">
+                <div style="width:50px; height:90px; float: left;">
+                <a href="http://juxiao.mediav.com/" target="_blank">
+                <img src="http://material.mediav.com/clickurl/50x90.jpg" border=0/></a></div>
+                <div style="width:950px; height:90px; float: right;">
+
+                <script>
+                var mediav_ad_pub = 'KFXe0m_1035159';
+                var mediav_ad_width = '950';
+                var mediav_ad_height = '90';
+                </script>
+                <script type="text/javascript" language="javascript" charset="utf-8"  src="http://static.mediav.com/js/mvf_g2.js"></script>
+
+                </div>
+            </div>
+        </div>
+       
+       <div class="mod friend-link"><div class="title"><span class="label">友情链接</span></div><div class="content"><ul class="txt-list gclearfix"><li><a href="http://g.360.cn/">360游戏导航</a></li><li><a href="http://g.360.cn/game/mmo">360网络游戏</a></li><li><a href="http://g.360.cn/game/pcg">360单机游戏</a></li><li><a href="http://xiaoyouxi.360.cn/">360小游戏</a></li><li><a href="http://wan.360.cn/">360游戏中心</a></li><li><a href="http://game.1360.com/">1360首发平台</a></li><li><a href="http://xiuxian.360.cn/">360棋牌</a></li><li><a href="http://www.youxi.com/">游戏网</a></li></ul></div></div>    </div>
+    <div id="ft">
+      <div class="gittest"></div>
+        <style type="text/css">#ft {text-align: center;line-height: 40px;color: #666;font-weight: 800;margin: 0 auto;padding-top: 40px;}#ft a {color: #2B7ABC;}</style><div id="copyright" class="gmodule"><p><a href="http://hao.360.cn/about.html" target="_blank">关于我们</a> | <a href="http://feedback.hao.360.cn/" target="_blank">意见反馈</a> Copyright &copy; 360网址导航. All Rights Reserved. <a href="http://www.miibeian.gov.cn/" target="_blank">京ICP证080047号</a> <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000006"> <img src="http://www.beian.gov.cn/file/ghs.png"> <span>京公网安备 11000002000006号</span> </a></p></div>    </div>
+</div>
+
+	
+<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+<script src='http://s8.qhres.com/static/cb2a9f58dc814fa2,f1a41716fd782283,99a70d8f985b1585,1706262c02050717.js' type='text/javascript'></script>
+
+
+ 	<div id="feedback" class="gmodule g-box">
+    <a class="close-btn" href="#">关闭</a>
+    <form id="feedbackform" action="http://feedback.hao.360.cn/index/submit" method="post" target="feedbackframe">
+        <h3 class="t1">1.请选择问题分类：</h3>
+        <div class="content">
+            <ul class="tag">
+                <li class="on" text-default="发现我们的页面有链接错误或有什么意见和建议，欢迎反馈！">
+                    <a title="">链接错误</a>
+                </li>
+                <li text-default="如果发现我们的页面有错乱，空白、折行等问题，欢迎留言纠错！">
+                    <a title="">页面错乱</a>
+                </li>
+                <li text-default="找不到我要玩游戏的，好郁闷！我要反馈给你们！">
+                    <a title="">找不到游戏</a>
+                </li>
+                <li text-default="还有其它的任何问题都可以来这里提哦！">
+                    <a title="">其他问题</a>
+                </li>
+            </ul>
+            <div class="reply">
+                <div>
+                    <textarea name="message_fake" id="message" text-default="对我们的产品有什么意见和建议，来这里反馈吧~" class="txt">对我们的产品有什么意见和建议，来这里反馈吧~</textarea>
+                </div>
+            </div>
+        </div>
+        <h3 class="t2">2.留下联系方式，您将有机会获得360安仔</h3>
+        <div class="content">
+            <input name="contact" id="contact" text-default="QQ/邮箱/电话" class="number" type="text" value="QQ/邮箱/电话">
+            <span class="ps">(可选)</span>
+        </div>
+        <div class="btn-wrap">
+            <div id="feedback_hit" class="errortip">
+                亲，您忘了添加反馈了吧~
+            </div>
+            <a id="submit_btn" class="submit-btn">提交</a>
+        </div>
+        <input type="hidden" name="sectionid" value="12">
+        <input type="hidden" name="referer" id="feedback_referer" value="http://xiaoshuo.360.cn/">
+        <input type="hidden" id="deviceinfo" name="deviceinfo" value="">
+        <input type="hidden" name="message" id="message_real" value="#产品问题#">
+    </form>
+    <div id="feedback_success">
+        <div class="message">
+            <h4>提交成功！感谢您对360游戏导航的支持</h4>
+        </div>
+        <div class="opt">
+            点<a href="http://g.360.cn" target="_self" title="360游戏">这里</a>回到360游戏导航首页，继续留言请点<a id="feedback_return" href="#" title="继续留言">这里</a>
+        </div>
+    </div>
+</div>
+<div id="feedback_mask"></div>
+<div style="display:none;" id="feedbackTarget"></div>		<script src='http://s8.qhres.com/static/7dacf04352a2132f,b982c837735fd58c.js' type='text/javascript'></script>
+
+	
+	<script type="text/javascript">
+	    var G_ready_time;
+	    Dom.ready(function() {
+	        G_ready_time = new Date();
+	    });
+
+	    W(window).on('load', function() {
+	        var params = {
+	            t0 : G_ready_time - G_start_time,
+	            t1 : new Date() - G_start_time
+	        };
+	        params['prj'] = 'game_search';
+
+	        monitor.log(params, 'wpo');
+	    });
+	    var _getLocation = monitor.util.getLocation;
+	    monitor.util.getLocation = function() {
+	        var url = _getLocation();
+	        return url + 'index.html';
+	    };
+	</script>
+	<script type="text/javascript">
+	    monitor2.setUrl("http://soyo.360.cn/index/result/all.html").getTrack();
+	    monitor2.getClickAndKeydown();
+	</script>
+	
+<script type="text/javascript">
+    monitor.setUrl("http://g.360.cn/web/index.html");
+    monitor.setProject('hao360_erjiye_youxidaohang').setId(["nav","hot","focus","news","topWebGame","kf","noviceCard","newWebGame","recommend","youLike","classicsWebGame","zb","friendLink"]);
+    monitor.getTrack();
+</script>
+
+    
+    
+	<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-23117222-9', {'sampleRate': 20});
+	ga('send', 'pageview');
+	</script>
+    
+    <script type="text/javascript">
+    (function (G,D,s,c,p) {c={UA:"UA-360-000001",NO_FLS:1,WITH_REF:0,URL:'http://s8.qhres.com/static/e18d8d7ecb48646a.js'};G._iwt?G._iwt.track(c,p):(G._iwtTQ=G._iwtTQ||[]).push([c,p]),!G._iwtLoading&&lo();function lo(t) {G._iwtLoading=1;s=D.createElement("script");s.src=c.URL;t=D.getElementsByTagName("script");t=t[t.length-1];t.parentNode.insertBefore(s,t);}})(this,document);
+    </script>
+</body>
+</html>
+
+
+0
+
+
